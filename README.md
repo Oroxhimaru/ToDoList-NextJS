@@ -1,3 +1,13 @@
+# TODO LIST WEBSITE
+
+I have follow the NEXT JS, made this website for learning. here is the result.
+
+## RESULT
+
+![TO DO LIST](todo list website.png)
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
